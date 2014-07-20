@@ -1,0 +1,3 @@
+[submodule "plugins/HumberPlugin.git"]
+	path = plugins/HumberPlugin.git
+	url = git@github.com:davidsells/HumberPlugin.git
